@@ -12,5 +12,6 @@ npm run serve
 
 ## Run server
 ```
+Go to the server folder then run the command below:
 npm run dev
 ```
